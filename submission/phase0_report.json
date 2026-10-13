@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "hanka.jankovicova@eurecom.fr",
+    "project": "project-a8899376-13d6-4f4d-88d",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/hanka-ja/clouds_ai_agent.git",
+    "is_github": true,
+    "slug": "hanka-ja/clouds_ai_agent"
+  }
+}
