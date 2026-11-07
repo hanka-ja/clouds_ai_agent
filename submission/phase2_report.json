@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 235.384,
+    "vectorized_ms": 1.041,
+    "speedup": 226.11
+  },
+  "threads": {
+    "1": 2145.856,
+    "2": 1952.592,
+    "4": 2274.375,
+    "8": 2120.132
+  },
+  "devices": {
+    "cpu_ms": 411133.1,
+    "gpu_ms": 14088.3
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4383,
+    "param_count": 4935680
+  },
+  "sample": "\nI hoperly, poor only well him than be grant adver to\nmore. Force Verens' our soverant rewired at\nis self my hair; your grief France Etwardand,\nTistrant pardon the very in stall at serve\nBe put\nEven 'B",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/project-a8899376-13d6-4f4d-88d-eurecomgpt/model.safetensors"
+  }
+}
